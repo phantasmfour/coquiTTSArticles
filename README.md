@@ -1,4 +1,4 @@
-# Helping me learn a new language while creating audio articles
+# Helping me learn a new language while creating AI Synthesized Recordings
 
 In this project I had the idea to take the articles I read in the morning and convert them into an audiobook that is read in two languages.
 What tts_article.py does
@@ -12,6 +12,9 @@ What tts_article.py does
 
 This project can be very easily modified to change the text you provide to Coqui and the place where you are storing these audio files.
 You could even start converting books you own into audio books.
+
+This is setup and running on a raspberry pi. It is very slow and needs a lot of ram. I originally tried using the piper library but found its outputs to have issues pronouncing R's.
+I included the conda env file along with a requirments.txt and two sample output files.
 
 
 
