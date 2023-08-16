@@ -16,7 +16,7 @@ You could even start converting books you own into audio books.
 This is setup and running on a raspberry pi. It is very slow and needs a lot of ram. I originally tried using the piper library but found its outputs to have issues pronouncing R's.
 I included the conda env file along with a requirments.txt and two sample output files.
 
-
+More info here: https://phantasmfour.com/learning-a-language-with-voice-synthesis/
 
 
 
